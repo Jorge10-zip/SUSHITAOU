@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Downloads\\practica ejercicio chatgpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4156E7C-AE21-4DE5-8E6C-3B3286D090A1}|practica ejercicio chatgpt\\practica ejercicio chatgpt.vcxproj|C:\\Users\\jorge\\Downloads\\practica ejercicio chatgpt\\practica ejercicio chatgpt\\practica ejercicio chatgpt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4156E7C-AE21-4DE5-8E6C-3B3286D090A1}|practica ejercicio chatgpt\\practica ejercicio chatgpt.vcxproj|solutionrelative:practica ejercicio chatgpt\\practica ejercicio chatgpt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practica ejercicio chatgpt.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\Downloads\\practica ejercicio chatgpt\\practica ejercicio chatgpt\\practica ejercicio chatgpt.cpp",
+              "RelativeDocumentMoniker": "practica ejercicio chatgpt\\practica ejercicio chatgpt.cpp",
+              "ToolTip": "C:\\Users\\jorge\\Downloads\\practica ejercicio chatgpt\\practica ejercicio chatgpt\\practica ejercicio chatgpt.cpp",
+              "RelativeToolTip": "practica ejercicio chatgpt\\practica ejercicio chatgpt.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-10T22:08:23.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
